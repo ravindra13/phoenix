@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "82690045264",
+    "firebase_url": "https://farcry-83142.firebaseio.com",
+    "project_id": "farcry-83142",
+    "storage_bucket": "farcry-83142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82690045264:android:c1be7957e3e667c3",
+        "android_client_info": {
+          "package_name": "com.example.android.farcry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82690045264-q5qsk7a6b46r1dkqde5d7v9uf1q5k7q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_xTfWA8XUIAUNg1JSs_Ikwq6piflHQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82690045264:android:9aa334198525b943",
+        "android_client_info": {
+          "package_name": "com.example.android.phoenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82690045264-q5qsk7a6b46r1dkqde5d7v9uf1q5k7q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_xTfWA8XUIAUNg1JSs_Ikwq6piflHQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">phoenix</string>
+    <string name="facebook_app_id">214188055769618</string>
+    <string name="fb_login_protocol_scheme">fb214188055769618</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ab3ebb51f1c723d81a582fa1b6e6caa8</string>
+    <string name="ak_login_protocol_scheme">ak214188055769618</string>
+</resources>
